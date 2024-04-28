@@ -3,8 +3,8 @@
 
 ## Requirements
 
-- [Node JS (>= v18.17)](https://nodejs.org/en/download/)
-- [Yarn] ( https://yarnpkg.com/getting-started/install)
+- [Node JS](https://nodejs.org/en/download/)
+- [Yarn](https://yarnpkg.com/getting-started/install)
 - [Git](https://git-scm.com/downloads)
 
 ## 1- Quickstart
