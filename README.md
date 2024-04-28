@@ -3,10 +3,8 @@
 
 ## Requirements
 
-Before you begin, you need to install the following tools:
-
-- [Node (>= v18.17)](https://nodejs.org/en/download/)
-- Yarn ([v1](https://classic.yarnpkg.com/en/docs/install/) or [v2+](https://yarnpkg.com/getting-started/install))
+- [Node JS (>= v18.17)](https://nodejs.org/en/download/)
+- [Yarn] ( https://yarnpkg.com/getting-started/install)
 - [Git](https://git-scm.com/downloads)
 
 ## 1- Quickstart
@@ -136,5 +134,7 @@ Go to scaffold.config.ts and edit the targetNetworks
 ```
 targetNetworks: [chains.metis]
 ```
-
-That's it. You know have all the steps to use Scaffold ETH-2 to spin up dApps on Metis L2. Happy coding!.
+_______________________________________________________________________________________
+That's it! 
+You know have all the steps to use Scaffold ETH-2 to spin up dApps on Metis L2. 
+For more details on how to build on Metis, visit the documentation [here](https://docs.metis.io/dev)
