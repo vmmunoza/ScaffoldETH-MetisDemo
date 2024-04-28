@@ -135,6 +135,11 @@ Go to scaffold.config.ts and edit the targetNetworks
 targetNetworks: [chains.metis]
 ```
 _______________________________________________________________________________________
+
 That's it! 
-You know have all the steps to use Scaffold ETH-2 to spin up dApps on Metis L2. 
+
+You now have completed all the steps necessary to use Scaffold ETH-2 and spin up a dApp on Metis L2. 
+
 For more details on how to build on Metis, visit the documentation [here](https://docs.metis.io/dev)
+
+_______________________________________________________________________________________
