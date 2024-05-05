@@ -1,5 +1,6 @@
 # Using Scaffold-ETH 2 to deploy a dApp on Metis L2
 
+This tutorial will teach you how to deploy a simple contract on Metis and to spin up a front-end using Scaffold ETH2. You can use this repository to create a quick prototype when creating a dApp on Metis.
 
 ## Requirements
 
@@ -7,7 +8,7 @@
 - [Yarn](https://yarnpkg.com/getting-started/install)
 - [Git](https://git-scm.com/downloads)
 
-## 1- Quickstart
+## 1- Scaffold Quickstart
 
 To get started with Scaffold-ETH 2, follow the steps below:
 
@@ -15,10 +16,14 @@ To get started with Scaffold-ETH 2, follow the steps below:
 
 ```
 git clone https://github.com/scaffold-eth/scaffold-eth-2.git
-```
+c
 
 Make sure to navigate to the scaffold folder:
+
 cd scaffold-eth-2
+
+And make sure to install yarn
+`yarn install`
 
 
 2. Run a local network in the first terminal:
