@@ -1,0 +1,2 @@
+- Edit your smart contract `YourContract.sol` in `packages/hardhat/contracts`
+- Edit your frontend homepage at `packages/nextjs/app/page.tsx.` 
