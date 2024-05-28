@@ -147,5 +147,6 @@ You now have completed all the steps necessary to use Scaffold ETH-2 and spin up
 
 For more details on how to build on Metis, visit the documentation [here](https://docs.metis.io/dev)
 
-Bonus: You can deploy your dApp on Vercel with the command ´yarn vercel´ (need to connect Vercel and GitHub first).
 _______________________________________________________________________________________
+
+#### Bonus: You can deploy your dApp on Vercel with the command ´yarn vercel´ (need to connect Vercel and GitHub first).
