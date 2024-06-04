@@ -149,4 +149,6 @@ For more details on how to build on Metis, visit the documentation [here](https:
 
 _______________________________________________________________________________________
 
-#### Bonus: You can deploy your dApp on Vercel with the command ´yarn vercel´ (need to connect Vercel and GitHub first).
+#### Bonus: 
+
+You can deploy your dApp on Vercel with the command ´yarn vercel´ (need to connect Vercel and GitHub first).
