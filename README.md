@@ -117,10 +117,13 @@ yarn generate
     },
 ```
 
-3.2 - Deploy first on testnet and then mainnet:
+3.2 - Deploy on testnet and then mainnet with these commands:
 
 ```
 yarn deploy --network metisSepolia
+```
+
+```
 yarn deploy --network andromeda
 ```
 
